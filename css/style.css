@@ -521,7 +521,7 @@ header {
 .colorlib-intro {
   padding: 2.5em 0;
   clear: both;
-  background: #302939; }
+  background:orangered; }
   .colorlib-intro .intro {
     position: relative; }
     @media screen and (max-width: 768px) {
